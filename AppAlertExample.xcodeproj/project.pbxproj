@@ -11,6 +11,7 @@
 		E4EA416D2BD340140095A070 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4EA416C2BD340140095A070 /* ContentView.swift */; };
 		E4EA416F2BD340150095A070 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4EA416E2BD340150095A070 /* Assets.xcassets */; };
 		E4EA41732BD340150095A070 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4EA41722BD340150095A070 /* Preview Assets.xcassets */; };
+		E4EA417A2BD3444E0095A070 /* AlertService.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4EA41792BD3444E0095A070 /* AlertService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		E4EA416E2BD340150095A070 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E4EA41702BD340150095A070 /* AppAlertExample.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = AppAlertExample.entitlements; sourceTree = "<group>"; };
 		E4EA41722BD340150095A070 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E4EA41792BD3444E0095A070 /* AlertService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				E4EA416A2BD340140095A070 /* AppAlertExampleApp.swift */,
 				E4EA416C2BD340140095A070 /* ContentView.swift */,
+				E4EA41792BD3444E0095A070 /* AlertService.swift */,
 				E4EA416E2BD340150095A070 /* Assets.xcassets */,
 				E4EA41702BD340150095A070 /* AppAlertExample.entitlements */,
 				E4EA41712BD340150095A070 /* Preview Content */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E4EA416D2BD340140095A070 /* ContentView.swift in Sources */,
+				E4EA417A2BD3444E0095A070 /* AlertService.swift in Sources */,
 				E4EA416B2BD340140095A070 /* AppAlertExampleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
