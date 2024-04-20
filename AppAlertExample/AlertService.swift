@@ -5,6 +5,8 @@
 //  Created by Marcin Jędrzejak on 20/04/2024.
 //
 
+// Link: https://www.youtube.com/watch?v=58zVtGTHOFw&ab_channel=StewartLynch
+
 import Foundation
 import SwiftUI
 
