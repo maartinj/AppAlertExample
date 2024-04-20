@@ -12,6 +12,10 @@ struct AppAlertExampleApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .onAppear {
+                    print(AlertService.appVersion)
+                    print(AlertService.osVersion)
+                }
         }
     }
 }
